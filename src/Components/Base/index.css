@@ -1,0 +1,21 @@
+body {
+   margin: 0 auto;
+   padding: 200px 0;
+   text-align: center;
+   background-color: black;
+}
+
+button {
+    max-width: 200px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+   font-size: 15px;
+   background-color: aqua;
+}
+
+div {
+    font-size: 50px;
+    color: aliceblue;
+}
